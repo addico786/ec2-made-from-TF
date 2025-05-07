@@ -1,4 +1,4 @@
-## hello folks in this repo you can see how we can crate an ec2 instance using terraform 
+## hello folks in this repo you can see how we can create an ec2 instance using terraform 
 
 ## requirements 
 1. aws cli # to config ur account
