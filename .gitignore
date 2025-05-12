@@ -1,0 +1,6 @@
+*.terraform
+*practice-1
+practice-1.pub
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
